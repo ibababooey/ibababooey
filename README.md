@@ -8,3 +8,5 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ibababooey&show_icons=true&theme=dark&locale=en" alt="ibababooey" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ibababooey&theme=dark" alt="ibababooey" /></p><br>
   </html>
+
+<h2>I actually suck at coding.</h2>
