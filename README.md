@@ -1,5 +1,7 @@
 <img alt="Hello I am ibababooey!" src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I+am+ibababooey!">
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/756322195671613510)](https://discord.com/users/756322195671613510)
+
 <h2 align="left">Stats</h2>
 
 <p>&nbsp;<img src="https://activity-graph.herokuapp.com/graph?username=ibababooey&theme=react-dark&hide_border=true&area=true" alt="ibababooey" /></p>
